@@ -57,11 +57,11 @@ mufengs 的个人博客
 ### 热议
 
 * [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
+* [关于读《嫌疑人 x 的献身》的感想](https://blog.mufengs.com/articles/2019/01/03/1546524219445.html)
 * [云主机安全——nginx_lua_waf](https://blog.mufengs.com/articles/2019/02/22/1550858166628.html)
-* [Arch 安装 zabbix-agent](https://blog.mufengs.com/articles/2019/01/29/1548813982776.html)
 * [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
 * [archlinux 安装 rsync 做备份服务器](https://blog.mufengs.com/articles/2019/01/28/1548669067442.html)
-* [关于读《嫌疑人 x 的献身》的感想](https://blog.mufengs.com/articles/2019/01/03/1546524219445.html)
+* [Arch 安装 zabbix-agent](https://blog.mufengs.com/articles/2019/01/29/1548813982776.html)
 
 ---
 
