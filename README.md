@@ -51,20 +51,20 @@ mufengs 的个人博客
 * [2018 年度生活工作总结](https://blog.mufengs.com/articles/2018/12/28/1546015214859.html)
 * [分享一个谷歌插件，各位大佬请指教](https://blog.mufengs.com/articles/2018/11/18/1542556592602.html)
 * [centos 系统加固脚本](https://blog.mufengs.com/articles/2018/12/24/1545662053586.html)
-* [寄给二月的小目标](https://blog.mufengs.com/articles/2019/01/31/1548925526871.html)
 * [[翻译] 为什么 Python 这么慢？](https://blog.mufengs.com/articles/2019/01/04/1546579369101.html)
+* [寄给二月的小目标](https://blog.mufengs.com/articles/2019/01/31/1548925526871.html)
 
 ### 热议
 
 * [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
 * [关于读《嫌疑人 x 的献身》的感想](https://blog.mufengs.com/articles/2019/01/03/1546524219445.html)
-* [[翻译] 是的，Python 很慢，我不关心](https://blog.mufengs.com/articles/2019/01/04/1546579476114.html)
-* [ArchLinux 安装 seafile](https://blog.mufengs.com/articles/2019/02/28/1551343140136.html)
+* [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
 * [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
 * [archlinux 安装 rsync 做备份服务器](https://blog.mufengs.com/articles/2019/01/28/1548669067442.html)
 * [Arch 安装 zabbix-agent](https://blog.mufengs.com/articles/2019/01/29/1548813982776.html)
-* [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
 * [云主机安全——nginx_lua_waf](https://blog.mufengs.com/articles/2019/02/22/1550858166628.html)
+* [[翻译] 是的，Python 很慢，我不关心](https://blog.mufengs.com/articles/2019/01/04/1546579476114.html)
+* [ArchLinux 安装 seafile](https://blog.mufengs.com/articles/2019/02/28/1551343140136.html)
 
 ---
 
