@@ -5,11 +5,13 @@ mufengs 的个人博客
 <h4 align="center">没有引发任何行动的思想都不是思想，而是梦想。 —— 马丁</h4>
 <p align="center"><a title="mufengs 的个人博客" target="_blank" href="https://github.com/mufengcoding/solo-blog"><img src="https://img.shields.io/github/last-commit/mufengcoding/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/mufengcoding/solo-blog"><img src="https://img.shields.io/github/repo-size/mufengcoding/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.4.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/mufengcoding/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [ISBN_api](https://blog.mufengs.com/api)
+* [我的开源](https://blog.mufengs.com/my-github-repos)
 * [Django 基础入门篇（一）](https://blog.mufengs.com/articles/2019/04/30/1556635472567.html)
 * [四月仅剩的二个小时](https://blog.mufengs.com/articles/2019/04/30/1556633680600.html)
 * [vsc server 搭建实战](https://blog.mufengs.com/articles/2019/04/21/1555853363410.html)
@@ -28,8 +30,6 @@ mufengs 的个人博客
 * [技术文章](https://blog.mufengs.com/articles/2019/03/11/1552316114520.html)
 * [关于 ss 用不了代替方案](https://blog.mufengs.com/articles/2019/03/10/1552237340125.html)
 * [优雅的将 solo 从 2.96 升级到 2.99](https://blog.mufengs.com/articles/2019/03/08/1549987072007.html)
-* [2019 年剩下近 3/4](https://blog.mufengs.com/articles/2019/03/06/1551886456757.html)
-* [始终保持 solo docker 镜像最新版本](https://blog.mufengs.com/articles/2019/03/05/1551841793596.html)
 
 ### 热门
 
@@ -52,21 +52,23 @@ mufengs 的个人博客
 * [2018 年度生活工作总结](https://blog.mufengs.com/articles/2018/12/28/1546015214859.html)
 * [分享一个谷歌插件，各位大佬请指教](https://blog.mufengs.com/articles/2018/11/18/1542556592602.html)
 * [寄给二月的小目标](https://blog.mufengs.com/articles/2019/01/31/1548925526871.html)
-* [centos 系统加固脚本](https://blog.mufengs.com/articles/2018/12/24/1545662053586.html)
+* [[翻译] 为什么 Python 这么慢？](https://blog.mufengs.com/articles/2019/01/04/1546579369101.html)
 
 ### 热议
 
+* [始终保持 solo docker 镜像最新版本](https://blog.mufengs.com/articles/2019/03/05/1551841793596.html)
 * [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
-* [[翻译] 是的，Python 很慢，我不关心](https://blog.mufengs.com/articles/2019/01/04/1546579476114.html)
+* [Github&dockerhub 实现 dockerfile 持续构建镜像](https://blog.mufengs.com/articles/2019/03/05/1551838325812.html)
 * [云主机安全——nginx_lua_waf](https://blog.mufengs.com/articles/2019/02/22/1550858166628.html)
-* [[翻译] 为什么 Python 这么慢？](https://blog.mufengs.com/articles/2019/01/04/1546579369101.html)
+* [2019 年剩下近 3/4](https://blog.mufengs.com/articles/2019/03/06/1551886456757.html)
+* [[翻译] 是的，Python 很慢，我不关心](https://blog.mufengs.com/articles/2019/01/04/1546579476114.html)
+* [centos 系统加固脚本](https://blog.mufengs.com/articles/2018/12/24/1545662053586.html)
+* [Arch 安装 zabbix-agent](https://blog.mufengs.com/articles/2019/01/29/1548813982776.html)
 * [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
 * [archlinux 安装 rsync 做备份服务器](https://blog.mufengs.com/articles/2019/01/28/1548669067442.html)
 * [关于读《嫌疑人 x 的献身》的感想](https://blog.mufengs.com/articles/2019/01/03/1546524219445.html)
-* [Github&dockerhub 实现 dockerfile 持续构建镜像](https://blog.mufengs.com/articles/2019/03/05/1551838325812.html)
-* [Arch 安装 zabbix-agent](https://blog.mufengs.com/articles/2019/01/29/1548813982776.html)
-* [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
 * [ArchLinux 安装 seafile](https://blog.mufengs.com/articles/2019/02/28/1551343140136.html)
+* [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
 
 ---
 
