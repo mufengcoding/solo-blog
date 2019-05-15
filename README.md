@@ -58,17 +58,17 @@ mufengs 的个人博客
 
 * [始终保持 solo docker 镜像最新版本](https://blog.mufengs.com/articles/2019/03/05/1551841793596.html)
 * [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
-* [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
 * [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
-* [云主机安全——nginx_lua_waf](https://blog.mufengs.com/articles/2019/02/22/1550858166628.html)
+* [Github&dockerhub 实现 dockerfile 持续构建镜像](https://blog.mufengs.com/articles/2019/03/05/1551838325812.html)
+* [ArchLinux 安装 seafile](https://blog.mufengs.com/articles/2019/02/28/1551343140136.html)
 * [centos 系统加固脚本](https://blog.mufengs.com/articles/2018/12/24/1545662053586.html)
 * [archlinux 安装 rsync 做备份服务器](https://blog.mufengs.com/articles/2019/01/28/1548669067442.html)
 * [[翻译] 是的，Python 很慢，我不关心](https://blog.mufengs.com/articles/2019/01/04/1546579476114.html)
-* [Github&dockerhub 实现 dockerfile 持续构建镜像](https://blog.mufengs.com/articles/2019/03/05/1551838325812.html)
-* [ArchLinux 安装 seafile](https://blog.mufengs.com/articles/2019/02/28/1551343140136.html)
 * [Arch 安装 zabbix-agent](https://blog.mufengs.com/articles/2019/01/29/1548813982776.html)
-* [2019 年剩下近 3/4](https://blog.mufengs.com/articles/2019/03/06/1551886456757.html)
 * [关于读《嫌疑人 x 的献身》的感想](https://blog.mufengs.com/articles/2019/01/03/1546524219445.html)
+* [2019 年剩下近 3/4](https://blog.mufengs.com/articles/2019/03/06/1551886456757.html)
+* [云主机安全——nginx_lua_waf](https://blog.mufengs.com/articles/2019/02/22/1550858166628.html)
+* [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
 
 ---
 
