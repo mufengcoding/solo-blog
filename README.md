@@ -5,11 +5,12 @@ mufengs 的个人博客
 <h4 align="center">没有引发任何行动的思想都不是思想，而是梦想。 —— 马丁</h4>
 <p align="center"><a title="mufengs 的个人博客" target="_blank" href="https://github.com/mufengcoding/solo-blog"><img src="https://img.shields.io/github/last-commit/mufengcoding/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/mufengcoding/solo-blog"><img src="https://img.shields.io/github/repo-size/mufengcoding/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.2-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/mufengcoding/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [git提交空文件夹的方法](https://blog.mufengs.com/articles/2019/09/18/1568798195593.html)
 * [acme.sh 申请 ssl 证书 体验云端的感觉](https://blog.mufengs.com/articles/2019/08/14/1539067893801.html)
 * [内网穿透新章法 serveo](https://blog.mufengs.com/articles/2019/07/29/1564394400425.html)
 * [docker 下的 tomcat 远程 debug](https://blog.mufengs.com/articles/2019/07/24/1563960906839.html)
@@ -29,7 +30,6 @@ mufengs 的个人博客
 * [ISBN_api](https://blog.mufengs.com/api)
 * [我的开源](https://blog.mufengs.com/my-github-repos)
 * [Django 基础入门篇（一）](https://blog.mufengs.com/articles/2019/04/30/1556635472567.html)
-* [四月仅剩的二个小时](https://blog.mufengs.com/articles/2019/04/30/1556633680600.html)
 
 ### 热门
 
@@ -59,23 +59,23 @@ mufengs 的个人博客
 * [caddy 实现 google 镜像站点](https://blog.mufengs.com/articles/2019/03/28/1553790582694.html)
 * [4 月份 python 学习计划](https://blog.mufengs.com/articles/2019/04/01/1554135477670.html)
 * [[日常 LeetCode] 1.Two Sum](https://blog.mufengs.com/articles/2019/03/15/1552666517762.html)
-* [始终保持 solo docker 镜像最新版本](https://blog.mufengs.com/articles/2019/03/05/1551841793596.html)
 * [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
-* [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
-* [优雅的将 solo 从 2.96 升级到 2.99](https://blog.mufengs.com/articles/2019/03/08/1549987072007.html)
-* [关于 ss 用不了代替方案](https://blog.mufengs.com/articles/2019/03/10/1552237340125.html)
-* [云主机安全——nginx_lua_waf](https://blog.mufengs.com/articles/2019/02/22/1550858166628.html)
-* [Github&dockerhub 实现 dockerfile 持续构建镜像](https://blog.mufengs.com/articles/2019/03/05/1551838325812.html)
-* [ArchLinux 安装 seafile](https://blog.mufengs.com/articles/2019/02/28/1551343140136.html)
+* [始终保持 solo docker 镜像最新版本](https://blog.mufengs.com/articles/2019/03/05/1551841793596.html)
 * [关于读《嫌疑人 x 的献身》的感想](https://blog.mufengs.com/articles/2019/01/03/1546524219445.html)
 * [archlinux 安装 rsync 做备份服务器](https://blog.mufengs.com/articles/2019/01/28/1548669067442.html)
 * [分享一个谷歌插件，各位大佬请指教](https://blog.mufengs.com/articles/2018/11/18/1542556592602.html)
-* [python 正式学习第一个月](https://blog.mufengs.com/articles/2019/03/31/1554036624476.html)
+* [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
+* [域名证书快过期](https://blog.mufengs.com/articles/2018/11/23/1542998592580.html)
 * [[日常 LeetCode] 2. Add Two Numbers](https://blog.mufengs.com/articles/2019/04/02/1554215874877.html)
 * [寄给二月的小目标](https://blog.mufengs.com/articles/2019/01/31/1548925526871.html)
 * [ISBN-API 图书接口 python](https://blog.mufengs.com/articles/2019/03/23/1553364314161.html)
-* [[翻译] 为什么 Python 这么慢？](https://blog.mufengs.com/articles/2019/01/04/1546579369101.html)
-* [2019 年剩下近 3/4](https://blog.mufengs.com/articles/2019/03/06/1551886456757.html)
+* [[翻译] 是的，Python 很慢，我不关心](https://blog.mufengs.com/articles/2019/01/04/1546579476114.html)
+* [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
+* [[翻译] 关于多线程的介绍](https://blog.mufengs.com/articles/2019/04/12/1555082696584.html)
+* [四月仅剩的二个小时](https://blog.mufengs.com/articles/2019/04/30/1556633680600.html)
+* [优雅的将 solo 从 2.96 升级到 2.99](https://blog.mufengs.com/articles/2019/03/08/1549987072007.html)
+* [Arch 安装 zabbix-agent](https://blog.mufengs.com/articles/2019/01/29/1548813982776.html)
+* [第一期课程《Kubernetes 入门之快速创建集群》](https://blog.mufengs.com/articles/2019/04/03/1554300144376.html)
 
 ---
 
