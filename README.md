@@ -10,6 +10,7 @@ mufengs 的个人博客
 
 ### 最新
 
+* [格鲁吉亚 相关资料](https://blog.mufengs.com/articles/2019/10/22/1571740286377.html)
 * [格鲁吉亚 9 天 8 夜蜜月自由行 (更新中)](https://blog.mufengs.com/articles/2019/10/21/1571635492008.html)
 * [Squid 代理访问日志提示 403 错误](https://blog.mufengs.com/articles/2019/09/24/1569324729282.html)
 * [Navicat 使用 sshtunnel 报错报错 80070007: SSH Tunnel: Server does not support diffie-hellman-group1-sha1 for keyexchange](https://blog.mufengs.com/articles/2019/09/24/1569317475381.html)
@@ -29,18 +30,18 @@ mufengs 的个人博客
 * [🎉庆祝下博客回归的第一天](https://blog.mufengs.com/articles/2019/06/16/1560657672810.html)
 * [运维百宝箱 V1.0](https://blog.mufengs.com/articles/2019/05/22/1558516924225.html)
 * [jenkins 是变装爱好者嘛？](https://blog.mufengs.com/articles/2019/05/22/1558515023146.html)
-* [Centos 8 来了吗？](https://blog.mufengs.com/articles/2019/05/16/1558001251375.html)
 
 ### 热门
 
 * [solo3.0.0更新到3.1.0](https://blog.mufengs.com/articles/2019/03/02/1551542170554.html)
 * [站点推荐](https://blog.mufengs.com/articles/2019/02/27/1531875257048.html)
 * [【倒计时 7 天】开放友情链接互连](https://blog.mufengs.com/articles/2018/10/19/1539915936370.html)
+* [Centos 8 来了吗？](https://blog.mufengs.com/articles/2019/05/16/1558001251375.html)
 * [技术文章](https://blog.mufengs.com/articles/2019/03/11/1552316114520.html)
 * [基于 caddy 提升 https 安全等级](https://blog.mufengs.com/articles/2018/11/25/1543153259670.html)
 * [每周分享-第一期20181102](https://blog.mufengs.com/articles/2018/11/02/1541139674442.html)
-* [vps 到期迁移至搬瓦工](https://blog.mufengs.com/articles/2018/12/03/1543890245427.html)
 * [python 的数据库管理系统 -1](https://blog.mufengs.com/articles/2018/12/16/1544965805650.html)
+* [vps 到期迁移至搬瓦工](https://blog.mufengs.com/articles/2018/12/03/1543890245427.html)
 * [【网络】复习网络七层模型](https://blog.mufengs.com/articles/2018/10/19/1539964901379.html)
 * [[翻译] 再见 docker](https://blog.mufengs.com/articles/2019/04/12/1555082010229.html)
 * [vps 配置邮件备份 solo](https://blog.mufengs.com/articles/2018/10/18/1539882476490.html)
@@ -48,15 +49,15 @@ mufengs 的个人博客
 * [手机逐渐在“绑架”我们的生活方式](https://blog.mufengs.com/articles/2019/03/30/1553952324489.html)
 * [2019 年度计划](https://blog.mufengs.com/articles/2018/12/29/1546102029217.html)
 * [20182150_站点推荐](https://blog.mufengs.com/articles/2018/11/25/1543153897071.html)
-* [阿里云快速迭代工具 Cloud Toolkit---pycharm 版](https://blog.mufengs.com/articles/2019/03/13/1552487661162.html)
 * [docker 容器之间互联](https://blog.mufengs.com/articles/2019/01/05/1546703605353.html)
+* [阿里云快速迭代工具 Cloud Toolkit---pycharm 版](https://blog.mufengs.com/articles/2019/03/13/1552487661162.html)
 * [我的开源](https://blog.mufengs.com/my-github-repos)
 * [# 读背锅侠的逆袭之路笔记](https://blog.mufengs.com/articles/2018/12/06/1544084549269.html)
-* [4 月份 python 学习计划](https://blog.mufengs.com/articles/2019/04/01/1554135477670.html)
 
 ### 热议
 
 * [caddy 实现 google 镜像站点](https://blog.mufengs.com/articles/2019/03/28/1553790582694.html)
+* [4 月份 python 学习计划](https://blog.mufengs.com/articles/2019/04/01/1554135477670.html)
 * [[日常 LeetCode] 1.Two Sum](https://blog.mufengs.com/articles/2019/03/15/1552666517762.html)
 * [始终保持 solo docker 镜像最新版本](https://blog.mufengs.com/articles/2019/03/05/1551841793596.html)
 * [云主机安全——防御 CC/DDos 攻击](https://blog.mufengs.com/articles/2019/02/22/1550823924646.html)
@@ -71,11 +72,10 @@ mufengs 的个人博客
 * [啃下 python（一）-- 环境安装](https://blog.mufengs.com/articles/2018/12/25/1545751085393.html)
 * [域名证书快过期](https://blog.mufengs.com/articles/2018/11/23/1542998592580.html)
 * [[日常 LeetCode] 2. Add Two Numbers](https://blog.mufengs.com/articles/2019/04/02/1554215874877.html)
-* [寄给二月的小目标](https://blog.mufengs.com/articles/2019/01/31/1548925526871.html)
+* [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
 * [ISBN-API 图书接口 python](https://blog.mufengs.com/articles/2019/03/23/1553364314161.html)
 * [[翻译] 为什么 Python 这么慢？](https://blog.mufengs.com/articles/2019/01/04/1546579369101.html)
 * [2019 年剩下近 3/4](https://blog.mufengs.com/articles/2019/03/06/1551886456757.html)
-* [python 正式学习第一个月](https://blog.mufengs.com/articles/2019/03/31/1554036624476.html)
 
 ---
 
