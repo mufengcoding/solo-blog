@@ -10,6 +10,7 @@ mufengs 的个人博客
 
 ### 最新
 
+* [git fatal: 拒绝合并无关的历史的错误解决](https://blog.mufengs.com/articles/2019/10/25/1571995748461.html)
 * [格鲁吉亚 相关资料](https://blog.mufengs.com/articles/2019/10/22/1571740286377.html)
 * [格鲁吉亚 9 天 8 夜蜜月自由行 (更新中)](https://blog.mufengs.com/articles/2019/10/21/1571635492008.html)
 * [Squid 代理访问日志提示 403 错误](https://blog.mufengs.com/articles/2019/09/24/1569324729282.html)
@@ -29,7 +30,6 @@ mufengs 的个人博客
 * [Django 基础入门篇（二）](https://blog.mufengs.com/articles/2019/06/17/1560781336455.html)
 * [🎉庆祝下博客回归的第一天](https://blog.mufengs.com/articles/2019/06/16/1560657672810.html)
 * [运维百宝箱 V1.0](https://blog.mufengs.com/articles/2019/05/22/1558516924225.html)
-* [jenkins 是变装爱好者嘛？](https://blog.mufengs.com/articles/2019/05/22/1558515023146.html)
 
 ### 热门
 
@@ -59,23 +59,23 @@ mufengs 的个人博客
 * [caddy 实现 google 镜像站点](https://blog.mufengs.com/articles/2019/03/28/1553790582694.html)
 * [[日常 LeetCode] 1.Two Sum](https://blog.mufengs.com/articles/2019/03/15/1552666517762.html)
 * [4 月份 python 学习计划](https://blog.mufengs.com/articles/2019/04/01/1554135477670.html)
+* [jenkins 是变装爱好者嘛？](https://blog.mufengs.com/articles/2019/05/22/1558515023146.html)
 * [始终保持 solo docker 镜像最新版本](https://blog.mufengs.com/articles/2019/03/05/1551841793596.html)
 * [云主机安全——防御 CC/DDos 攻击](https://blog.mufengs.com/articles/2019/02/22/1550823924646.html)
 * [关于 ss 用不了代替方案](https://blog.mufengs.com/articles/2019/03/10/1552237340125.html)
 * [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
-* [关于读《嫌疑人 x 的献身》的感想](https://blog.mufengs.com/articles/2019/01/03/1546524219445.html)
 * [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
-* [archlinux 安装 rsync 做备份服务器](https://blog.mufengs.com/articles/2019/01/28/1548669067442.html)
 * [优雅的将 solo 从 2.96 升级到 2.99](https://blog.mufengs.com/articles/2019/03/08/1549987072007.html)
+* [Django 基础入门篇（一）](https://blog.mufengs.com/articles/2019/04/30/1556635472567.html)
+* [关于读《嫌疑人 x 的献身》的感想](https://blog.mufengs.com/articles/2019/01/03/1546524219445.html)
+* [archlinux 安装 rsync 做备份服务器](https://blog.mufengs.com/articles/2019/01/28/1548669067442.html)
+* [分享一个谷歌插件，各位大佬请指教](https://blog.mufengs.com/articles/2018/11/18/1542556592602.html)
+* [啃下 python（一）-- 环境安装](https://blog.mufengs.com/articles/2018/12/25/1545751085393.html)
 * [域名证书快过期](https://blog.mufengs.com/articles/2018/11/23/1542998592580.html)
+* [[日常 LeetCode] 2. Add Two Numbers](https://blog.mufengs.com/articles/2019/04/02/1554215874877.html)
 * [寄给二月的小目标](https://blog.mufengs.com/articles/2019/01/31/1548925526871.html)
 * [ISBN-API 图书接口 python](https://blog.mufengs.com/articles/2019/03/23/1553364314161.html)
 * [[翻译] 为什么 Python 这么慢？](https://blog.mufengs.com/articles/2019/01/04/1546579369101.html)
-* [2019 年剩下近 3/4](https://blog.mufengs.com/articles/2019/03/06/1551886456757.html)
-* [啃下 python（一）-- 环境安装](https://blog.mufengs.com/articles/2018/12/25/1545751085393.html)
-* [云主机安全——nginx_lua_waf](https://blog.mufengs.com/articles/2019/02/22/1550858166628.html)
-* [[翻译] 关于多线程的介绍](https://blog.mufengs.com/articles/2019/04/12/1555082696584.html)
-* [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
 
 ---
 
