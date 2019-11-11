@@ -40,8 +40,8 @@ mufengs 的个人博客
 * [【倒计时 7 天】开放友情链接互连](https://blog.mufengs.com/articles/2018/10/19/1539915936370.html)
 * [技术文章](https://blog.mufengs.com/articles/2019/03/11/1552316114520.html)
 * [基于 caddy 提升 https 安全等级](https://blog.mufengs.com/articles/2018/11/25/1543153259670.html)
-* [每周分享-第一期20181102](https://blog.mufengs.com/articles/2018/11/02/1541139674442.html)
 * [vps 到期迁移至搬瓦工](https://blog.mufengs.com/articles/2018/12/03/1543890245427.html)
+* [每周分享-第一期20181102](https://blog.mufengs.com/articles/2018/11/02/1541139674442.html)
 * [python 的数据库管理系统 -1](https://blog.mufengs.com/articles/2018/12/16/1544965805650.html)
 * [【网络】复习网络七层模型](https://blog.mufengs.com/articles/2018/10/19/1539964901379.html)
 * [[翻译] 再见 docker](https://blog.mufengs.com/articles/2019/04/12/1555082010229.html)
@@ -50,8 +50,8 @@ mufengs 的个人博客
 * [手机逐渐在“绑架”我们的生活方式](https://blog.mufengs.com/articles/2019/03/30/1553952324489.html)
 * [2019 年度计划](https://blog.mufengs.com/articles/2018/12/29/1546102029217.html)
 * [20182150_站点推荐](https://blog.mufengs.com/articles/2018/11/25/1543153897071.html)
-* [docker 容器之间互联](https://blog.mufengs.com/articles/2019/01/05/1546703605353.html)
 * [阿里云快速迭代工具 Cloud Toolkit---pycharm 版](https://blog.mufengs.com/articles/2019/03/13/1552487661162.html)
+* [docker 容器之间互联](https://blog.mufengs.com/articles/2019/01/05/1546703605353.html)
 * [我的开源](https://blog.mufengs.com/my-github-repos)
 
 ### 热议
@@ -63,8 +63,8 @@ mufengs 的个人博客
 * [关于 ss 用不了代替方案](https://blog.mufengs.com/articles/2019/03/10/1552237340125.html)
 * [云主机安全——防御 CC/DDos 攻击](https://blog.mufengs.com/articles/2019/02/22/1550823924646.html)
 * [始终保持 solo docker 镜像最新版本](https://blog.mufengs.com/articles/2019/03/05/1551841793596.html)
-* [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
 * [jenkins 是变装爱好者嘛？](https://blog.mufengs.com/articles/2019/05/22/1558515023146.html)
+* [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
 * [Github&dockerhub 实现 dockerfile 持续构建镜像](https://blog.mufengs.com/articles/2019/03/05/1551838325812.html)
 * [优雅的将 solo 从 2.96 升级到 2.99](https://blog.mufengs.com/articles/2019/03/08/1549987072007.html)
 * [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
@@ -75,7 +75,7 @@ mufengs 的个人博客
 * [ISBN-API 图书接口 python](https://blog.mufengs.com/articles/2019/03/23/1553364314161.html)
 * [寄给二月的小目标](https://blog.mufengs.com/articles/2019/01/31/1548925526871.html)
 * [关于读《嫌疑人 x 的献身》的感想](https://blog.mufengs.com/articles/2019/01/03/1546524219445.html)
-* [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
+* [archlinux 安装 rsync 做备份服务器](https://blog.mufengs.com/articles/2019/01/28/1548669067442.html)
 
 ---
 
