@@ -67,15 +67,15 @@ mufengs 的个人博客
 * [关于 ss 用不了代替方案](https://blog.mufengs.com/articles/2019/03/10/1552237340125.html)
 * [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
 * [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
-* [Github&dockerhub 实现 dockerfile 持续构建镜像](https://blog.mufengs.com/articles/2019/03/05/1551838325812.html)
 * [优雅的将 solo 从 2.96 升级到 2.99](https://blog.mufengs.com/articles/2019/03/08/1549987072007.html)
 * [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
 * [[翻译] 关于多线程的介绍](https://blog.mufengs.com/articles/2019/04/12/1555082696584.html)
 * [python 正式学习第一个月](https://blog.mufengs.com/articles/2019/03/31/1554036624476.html)
-* [[翻译] 为什么 Python 这么慢？](https://blog.mufengs.com/articles/2019/01/04/1546579369101.html)
+* [[日常 LeetCode] 2. Add Two Numbers](https://blog.mufengs.com/articles/2019/04/02/1554215874877.html)
 * [ISBN-API 图书接口 python](https://blog.mufengs.com/articles/2019/03/23/1553364314161.html)
 * [寄给二月的小目标](https://blog.mufengs.com/articles/2019/01/31/1548925526871.html)
 * [我的开源](https://blog.mufengs.com/my-github-repos)
+* [Github&dockerhub 实现 dockerfile 持续构建镜像](https://blog.mufengs.com/articles/2019/03/05/1551838325812.html)
 
 ---
 
