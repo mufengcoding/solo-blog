@@ -52,30 +52,30 @@ mufengs 的个人博客
 * [2019 年度计划](https://blog.mufengs.com/articles/2018/12/29/1546102029217.html)
 * [阿里云快速迭代工具 Cloud Toolkit---pycharm 版](https://blog.mufengs.com/articles/2019/03/13/1552487661162.html)
 * [docker 容器之间互联](https://blog.mufengs.com/articles/2019/01/05/1546703605353.html)
-* [20182150_站点推荐](https://blog.mufengs.com/articles/2018/11/25/1543153897071.html)
+* [啃下 python（一）-- 环境安装](https://blog.mufengs.com/articles/2018/12/25/1545751085393.html)
 
 ### 热议
 
 * [caddy 实现 google 镜像站点](https://blog.mufengs.com/articles/2019/03/28/1553790582694.html)
-* [运维百宝箱 V1.0](https://blog.mufengs.com/articles/2019/05/22/1558516924225.html)
 * [4 月份 python 学习计划](https://blog.mufengs.com/articles/2019/04/01/1554135477670.html)
+* [运维百宝箱 V1.0](https://blog.mufengs.com/articles/2019/05/22/1558516924225.html)
 * [[日常 LeetCode] 1.Two Sum](https://blog.mufengs.com/articles/2019/03/15/1552666517762.html)
-* [jenkins 是变装爱好者嘛？](https://blog.mufengs.com/articles/2019/05/22/1558515023146.html)
-* [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
 * [2019 年剩下近 3/4](https://blog.mufengs.com/articles/2019/03/06/1551886456757.html)
+* [jenkins 是变装爱好者嘛？](https://blog.mufengs.com/articles/2019/05/22/1558515023146.html)
 * [始终保持 solo docker 镜像最新版本](https://blog.mufengs.com/articles/2019/03/05/1551841793596.html)
 * [云主机安全——防御 CC/DDos 攻击](https://blog.mufengs.com/articles/2019/02/22/1550823924646.html)
+* [20182150_站点推荐](https://blog.mufengs.com/articles/2018/11/25/1543153897071.html)
 * [关于 ss 用不了代替方案](https://blog.mufengs.com/articles/2019/03/10/1552237340125.html)
+* [solo 升级到 3.0.0 相关](https://blog.mufengs.com/articles/2019/02/20/1550662259700.html)
 * [[译文]2018 年 Web 开发者路线图](https://blog.mufengs.com/articles/2019/02/25/1551080435336.html)
 * [优雅的将 solo 从 2.96 升级到 2.99](https://blog.mufengs.com/articles/2019/03/08/1549987072007.html)
 * [工作笔记](https://blog.mufengs.com/articles/2019/01/25/1548410087598.html)
 * [[翻译] 关于多线程的介绍](https://blog.mufengs.com/articles/2019/04/12/1555082696584.html)
 * [python 正式学习第一个月](https://blog.mufengs.com/articles/2019/03/31/1554036624476.html)
 * [[翻译] 为什么 Python 这么慢？](https://blog.mufengs.com/articles/2019/01/04/1546579369101.html)
-* [ISBN-API 图书接口 python](https://blog.mufengs.com/articles/2019/03/23/1553364314161.html)
+* [[翻译] 是的，Python 很慢，我不关心](https://blog.mufengs.com/articles/2019/01/04/1546579476114.html)
 * [寄给二月的小目标](https://blog.mufengs.com/articles/2019/01/31/1548925526871.html)
 * [我的开源](https://blog.mufengs.com/my-github-repos)
-* [关于读《嫌疑人 x 的献身》的感想](https://blog.mufengs.com/articles/2019/01/03/1546524219445.html)
 
 ---
 
