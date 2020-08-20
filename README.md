@@ -10,6 +10,7 @@ mufengs 的个人博客
 
 ### 最新
 
+* [Caddy 最新版搭建 mkdocs](https://solo.mufengs.com/articles/2020/08/19/1597399396508.html)
 * [目前股市持续走强，你怎么看？](https://solo.mufengs.com/articles/2020/07/23/1594688885308.html)
 * [Solo 升级 4.1.0 至 4.3.0](https://solo.mufengs.com/articles/2020/07/22/1595395784632.html)
 * [搭建部署 wiki](https://solo.mufengs.com/articles/2020/07/20/1595206037439.html)
@@ -29,7 +30,6 @@ mufengs 的个人博客
 * [Solo4.0博客改变部署方式docker-compose](https://solo.mufengs.com/articles/2020/03/25/1585130419100.html)
 * [浮生三叹,浮生三唱](https://solo.mufengs.com/articles/2020/03/22/1584927970639.html)
 * [Caddy2.0使用进阶](https://solo.mufengs.com/articles/2020/03/20/1584690359268.html)
-* [🎬每周电影-《大空头》08年金融危机改编](https://solo.mufengs.com/articles/2020/03/16/1584363235791.html)
 
 
 
