@@ -10,6 +10,7 @@ mufengs 的个人博客
 
 ### 最新
 
+* [Gitlab 切换过 IP 之后提交代码失败](https://solo.mufengs.com/articles/2020/08/21/1597999746497.html)
 * [Caddy 最新版搭建 mkdocs](https://solo.mufengs.com/articles/2020/08/19/1597399396508.html)
 * [目前股市持续走强，你怎么看？](https://solo.mufengs.com/articles/2020/07/23/1594688885308.html)
 * [Solo 升级 4.1.0 至 4.3.0](https://solo.mufengs.com/articles/2020/07/22/1595395784632.html)
@@ -29,7 +30,6 @@ mufengs 的个人博客
 * [mysql容器启动报错-chown: cannot read directory '/var/lib/mysql/': Permission denied](https://solo.mufengs.com/articles/2020/03/29/1585534689132.html)
 * [Solo4.0博客改变部署方式docker-compose](https://solo.mufengs.com/articles/2020/03/25/1585130419100.html)
 * [浮生三叹,浮生三唱](https://solo.mufengs.com/articles/2020/03/22/1584927970639.html)
-* [Caddy2.0使用进阶](https://solo.mufengs.com/articles/2020/03/20/1584690359268.html)
 
 
 
