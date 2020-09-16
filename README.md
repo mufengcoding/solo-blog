@@ -5,7 +5,7 @@ mufengs 的个人博客
 <h4 align="center">没有引发任何行动的思想都不是思想，而是梦想。 —— 马丁</h4>
 <p align="center"><a title="mufengs 的个人博客" target="_blank" href="https://github.com/mufengcoding/solo-blog"><img src="https://img.shields.io/github/last-commit/mufengcoding/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/mufengcoding/solo-blog"><img src="https://img.shields.io/github/repo-size/mufengcoding/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/mufengcoding/solo-blog.svg"></a></p>
 
 ### 最新
