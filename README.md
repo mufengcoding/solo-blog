@@ -10,6 +10,7 @@ mufengs 的个人博客
 
 ### 最新
 
+* [【转载】jmeter http动态参数压测](https://solo.mufengs.com/articles/2020/10/28/1603878552310.html)
 * [Gitlab 切换过 IP 之后提交代码失败](https://solo.mufengs.com/articles/2020/08/21/1597999746497.html)
 * [Caddy 最新版搭建 mkdocs](https://solo.mufengs.com/articles/2020/08/19/1597399396508.html)
 * [目前股市持续走强，你怎么看？](https://solo.mufengs.com/articles/2020/07/23/1594688885308.html)
@@ -29,7 +30,6 @@ mufengs 的个人博客
 * [火狐浏览器https报错-MOZILLA_PKIX_ERROR_REQUIRED_TLS_FEATURE_MISSING](https://solo.mufengs.com/articles/2020/03/29/1585535605473.html)
 * [mysql容器启动报错-chown: cannot read directory '/var/lib/mysql/': Permission denied](https://solo.mufengs.com/articles/2020/03/29/1585534689132.html)
 * [Solo4.0博客改变部署方式docker-compose](https://solo.mufengs.com/articles/2020/03/25/1585130419100.html)
-* [浮生三叹,浮生三唱](https://solo.mufengs.com/articles/2020/03/22/1584927970639.html)
 
 
 
