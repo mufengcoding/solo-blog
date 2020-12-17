@@ -10,6 +10,7 @@ mufengs 的个人博客
 
 ### 最新
 
+* [Nessus 安装和卸载 [MacOs]](https://solo.mufengs.com/articles/2020/12/17/1608172560386.html)
 * [记一次jumpserver升级翻车记录](https://solo.mufengs.com/articles/2020/12/16/1608087033508.html)
 * [安装nload流量监控软件](https://solo.mufengs.com/articles/2020/11/02/1604283049170.html)
 * [【转载】jmeter http动态参数压测](https://solo.mufengs.com/articles/2020/10/28/1603878552310.html)
@@ -29,7 +30,6 @@ mufengs 的个人博客
 * [Centos离线安装DockerCE](https://solo.mufengs.com/articles/2020/04/10/1586484052768.html)
 * [Django配置静态认证文件](https://solo.mufengs.com/articles/2020/04/04/1586011870394.html)
 * [Caddy2 与 Cloudflare 不完美结合方案](https://solo.mufengs.com/articles/2020/03/30/1585559370988.html)
-* [火狐浏览器https报错-MOZILLA_PKIX_ERROR_REQUIRED_TLS_FEATURE_MISSING](https://solo.mufengs.com/articles/2020/03/29/1585535605473.html)
 
 
 
