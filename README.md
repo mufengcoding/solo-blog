@@ -10,6 +10,8 @@ mufengs 的个人博客
 
 ### 最新
 
+* [VirtualBox 安装 Amazon linux2](https://solo.mufengs.com/articles/2021/01/25/1611543785440.html)
+* [Amazon Linux 2 简介](https://solo.mufengs.com/articles/2021/01/25/1611543449652.html)
 * [docx转html、md](https://solo.mufengs.com/articles/2021/01/15/1610703388385.html)
 * [Nessus 安装和卸载 [MacOs]](https://solo.mufengs.com/articles/2020/12/17/1608172560386.html)
 * [记一次jumpserver升级翻车记录](https://solo.mufengs.com/articles/2020/12/16/1608087033508.html)
@@ -28,8 +30,6 @@ mufengs 的个人博客
 * [关于谷歌浏览器一些https打不开点击高级不行的解决办法](https://solo.mufengs.com/articles/2020/05/12/1589252928729.html)
 * [jenkins插件使用清华源加速](https://solo.mufengs.com/articles/2020/04/29/1588144056873.html)
 * [mysql优化工具mysqltuner](https://solo.mufengs.com/articles/2020/04/10/1586523870867.html)
-* [Centos离线安装DockerCE](https://solo.mufengs.com/articles/2020/04/10/1586484052768.html)
-* [Django配置静态认证文件](https://solo.mufengs.com/articles/2020/04/04/1586011870394.html)
 
 
 
