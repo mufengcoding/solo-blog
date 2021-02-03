@@ -10,6 +10,7 @@ mufengs 的个人博客
 
 ### 最新
 
+* [Linux 安全加固指南](https://solo.mufengs.com/articles/2021/02/03/1612322532195.html)
 * [VirtualBox 安装 Amazon linux2](https://solo.mufengs.com/articles/2021/01/25/1611543785440.html)
 * [Amazon Linux 2 简介](https://solo.mufengs.com/articles/2021/01/25/1611543449652.html)
 * [docx转html、md](https://solo.mufengs.com/articles/2021/01/15/1610703388385.html)
@@ -29,7 +30,6 @@ mufengs 的个人博客
 * [效率神器 utools](https://solo.mufengs.com/articles/2020/06/15/1592183019891.html)
 * [关于谷歌浏览器一些https打不开点击高级不行的解决办法](https://solo.mufengs.com/articles/2020/05/12/1589252928729.html)
 * [jenkins插件使用清华源加速](https://solo.mufengs.com/articles/2020/04/29/1588144056873.html)
-* [mysql优化工具mysqltuner](https://solo.mufengs.com/articles/2020/04/10/1586523870867.html)
 
 
 
