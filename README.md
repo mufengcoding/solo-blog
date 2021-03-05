@@ -10,6 +10,7 @@ mufengs 的个人博客
 
 ### 最新
 
+* [记一次redis连接密码不对](https://solo.mufengs.com/articles/2021/03/05/1614935498246.html)
 * [Linux 安全加固指南](https://solo.mufengs.com/articles/2021/02/03/1612322532195.html)
 * [VirtualBox 安装 Amazon linux2](https://solo.mufengs.com/articles/2021/01/25/1611543785440.html)
 * [Amazon Linux 2 简介](https://solo.mufengs.com/articles/2021/01/25/1611543449652.html)
@@ -29,7 +30,6 @@ mufengs 的个人博客
 * [utools 插件开发 --MAC dns 快速切换](https://solo.mufengs.com/articles/2020/06/15/1592183071520.html)
 * [效率神器 utools](https://solo.mufengs.com/articles/2020/06/15/1592183019891.html)
 * [关于谷歌浏览器一些https打不开点击高级不行的解决办法](https://solo.mufengs.com/articles/2020/05/12/1589252928729.html)
-* [jenkins插件使用清华源加速](https://solo.mufengs.com/articles/2020/04/29/1588144056873.html)
 
 
 
