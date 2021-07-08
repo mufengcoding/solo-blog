@@ -10,6 +10,7 @@ mufengs 的个人博客
 
 ### 最新
 
+* [利用 OpenCC 工具进行文字的简繁转换](https://solo.mufengs.com/articles/2021/07/08/1625721662740.html)
 * [jenkins升级【docker版本】](https://solo.mufengs.com/articles/2021/04/19/1618840633907.html)
 * [http1.1/http2/http3说明以及nginx实现http2](https://solo.mufengs.com/articles/2021/03/11/1615442361124.html)
 * [记一次redis连接密码不对](https://solo.mufengs.com/articles/2021/03/05/1614935498246.html)
@@ -29,7 +30,6 @@ mufengs 的个人博客
 * [[utools] DNS 快速切换](https://solo.mufengs.com/articles/2020/07/11/1594482453605.html)
 * [easyexcel 程序启动时报: Invalid byte tag in constant pool: 19](https://solo.mufengs.com/articles/2020/07/09/1594283867824.html)
 * [关于 utools 官方自动化助手（获取公网 IP）bug 修复](https://solo.mufengs.com/articles/2020/06/25/1593091067592.html)
-* [utools 插件开发 --MAC dns 快速切换](https://solo.mufengs.com/articles/2020/06/15/1592183071520.html)
 
 
 
